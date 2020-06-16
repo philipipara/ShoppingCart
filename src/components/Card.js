@@ -17,7 +17,7 @@ const MyCard = ({product, addInCart}) => {
             height="175"
             width="100%"
             src={product.smallImage}
-            alt="Laptop"
+            alt=""
             />
             <CardBody className="text-center">
                 <CardTitle>{product.productName}</CardTitle>
