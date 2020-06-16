@@ -10,8 +10,7 @@ import {
     Card,
     CardFooter,
     Col,
-    Row,
-    Jumbotron
+    Row
 }
 from "reactstrap"
 
